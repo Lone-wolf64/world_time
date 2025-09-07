@@ -1,16 +1,21 @@
-# world_time
+# 🌍 World Time App
 
-A new Flutter project.
+A simple Flutter app that displays the current time across different world time zones. Built with clean architecture and modular components to help learners and developers easily understand, customize, and expand the project.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🌐 Select a location and view its current time
+- 🕒 Real-time updates with API integration
+- 🎨 Polished UI with transitions and loaders
+- 📱 Responsive design across platforms (Android, iOS, Web, Desktop)
 
-A few resources to get you started if this is your first Flutter project:
+## 🧱 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** for cross-platform UI
+- **Dart** for logic and state management
+- **HTTP** package for API calls
+- **Spinkit** for loading animations
+- **SafeArea**, **Navigator**, and custom widgets for layout and routing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
